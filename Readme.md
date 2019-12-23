@@ -1,4 +1,4 @@
-# How to Use the ASP.NET Core Back-end to Integrate the Document Viewer and Report Designer in JavaScript with React Library
+# How to Use the ASP.NET Core Back-End to Integrate the Document Viewer and Report Designer in JavaScript with React Library
 
 This example consists of two parts: 
 
