@@ -8,7 +8,7 @@ class ReportViewer extends React.Component {
     super(props);
     this.reportUrl = ko.observable("TestReport");
     this.requestOptions = {
-      host: "http://localhost:51803/",
+      host: "http://localhost:54633/",
       invokeAction: "DXXRDV"
     };
   }
