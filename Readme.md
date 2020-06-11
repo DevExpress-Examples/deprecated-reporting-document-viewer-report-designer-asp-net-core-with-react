@@ -8,8 +8,8 @@ This example consists of two parts: 
 
 Perform the following steps to run this example:
 
-1. Open the back-end project solution (**CS\ServerSide.sln**) in Visual Studio and run the project.
-2. Navigate to the **JS\react-document-viewer** folder that is the client part's root folder.
+1. Open the back-end project solution (**CS\ServerSide.sln**) in Visual Studio and run the project. 
+2. Navigate to the **JS\react-document-viewer** folder that is the client part's root folder. Open the src\App.js file and change the port number in the **host** setting to the back-end application's port.
 3. Open the console and run the following command:
 
     ```npm install```
@@ -20,7 +20,7 @@ Perform the following steps to run this example:
 
 5. The client application opens the browser at http://localhost:3000/. It displays the **Document Viewer** with the **Products** report.
 
-6. Navigate to the **JS\react-report-designer** folder that is the client part's root folder.
+6. Navigate to the **JS\react-report-designer** folder that is the client part's root folder. Open the src\App.js file and change the port number in the **host** setting to the back-end application's port.
 
 7. Open the console and run the following command:
 
