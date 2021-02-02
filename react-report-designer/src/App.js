@@ -8,7 +8,7 @@ class ReportDesigner extends React.Component {
     super(props);
     this.reportUrl = ko.observable("TestReport");
     this.requestOptions = {
-      host: "http://localhost:54633/",
+      host: "http://localhost:55754/",
       getDesignerModelAction: "ReportDesigner/GetReportDesignerModel"
     };
   }
