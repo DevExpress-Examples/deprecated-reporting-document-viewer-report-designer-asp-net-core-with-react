@@ -10,7 +10,7 @@
     <EmbeddedResource Include="PredefinedReports\TestReport.repx" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="19.2.11" />
+    <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="19.2.12" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
