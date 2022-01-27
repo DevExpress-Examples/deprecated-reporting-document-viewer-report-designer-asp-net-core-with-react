@@ -1,9 +1,5 @@
 ﻿using DevExpress.XtraReports.Web.ReportDesigner;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace ServerSide.Controllers {
     public class ReportDesignerController : Controller {
